@@ -33,7 +33,7 @@ A few additional scoring guidelines:
 QUESTION: {question}
 
 STATEMENT: {statement}
-
+ 
 RELEVANCE: """ 
 
 PR_RELEVANCE = """You are a RELEVANCE grader; providing the relevance of the given RESPONSE to the given PROMPT.
