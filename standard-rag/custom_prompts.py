@@ -34,7 +34,7 @@ QUESTION: {question}
 
 STATEMENT: {statement}
 
-RELEVANCE: """
+RELEVANCE: """ 
 
 PR_RELEVANCE = """You are a RELEVANCE grader; providing the relevance of the given RESPONSE to the given PROMPT.
 Respond only as a number from 0 to 10 where 0 is the least relevant and 10 is the most relevant. 
