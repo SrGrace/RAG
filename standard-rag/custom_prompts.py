@@ -5,7 +5,7 @@ TEMPLATE:
 Statement Sentence: <Sentence>
 Supporting Evidence: <Choose the exact unchanged sentences in the source that can answer the statement (Enclose them in "), if nothing matches, say NOTHING FOUND>
 Score: <Output a number between 0-10 where 0 is no information overlap and 10 is all information is overlapping>
-"""
+""" 
 
 QS_RELEVANCE = """You are a RELEVANCE grader; providing the relevance of the given STATEMENT to the given QUESTION.
 Respond only as a number from 0 to 10 where 0 is the least relevant and 10 is the most relevant. 
