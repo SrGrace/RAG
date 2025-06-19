@@ -65,7 +65,7 @@ A few additional scoring guidelines:
 
 - Never elaborate.
 
-PROMPT: {prompt}
+PROMPT: {prompt} 
 
 RESPONSE: {response}
 
